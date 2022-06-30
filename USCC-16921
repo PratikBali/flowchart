@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T08:10:36.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3zBNo65lpIcvIl2SW2X8" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T08:11:06.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qhwU8mKtpV2YZDY_x4O8" version="20.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="KVtDRAGPy18HfjeJwkuY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KVtDRAGPy18HfjeJwkuY-33" target="KVtDRAGPy18HfjeJwkuY-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KVtDRAGPy18HfjeJwkuY-33" value="Radio Buttons" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KVtDRAGPy18HfjeJwkuY-33" value="Radio Buttons" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;sketch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="700" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KVtDRAGPy18HfjeJwkuY-34" value="Keep my device&lt;br&gt;(&lt;b style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Without Trade-In)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -141,11 +141,11 @@
         <mxCell id="KVtDRAGPy18HfjeJwkuY-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KVtDRAGPy18HfjeJwkuY-46" target="KVtDRAGPy18HfjeJwkuY-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KVtDRAGPy18HfjeJwkuY-46" value="Navigate to" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;glass=0;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KVtDRAGPy18HfjeJwkuY-46" value="Navigate to" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;glass=0;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="980" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KVtDRAGPy18HfjeJwkuY-48" value="If any line without a device Explore Devices screen" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="990" width="170" height="60" as="geometry" />
+          <mxGeometry x="500" y="990" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVtDRAGPy18HfjeJwkuY-50" value="if 1st device&lt;br&gt;&quot;Add My Devices&quot;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;shadow=0;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="990" width="170" height="60" as="geometry" />
