@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T09:19:59.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="M4FERGZVgjFfLHbnkKU2" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T09:20:37.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8qnWCXHYpsXlntHzbnvX" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1865" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pEdADiUN0RTrBGETc-ND-134" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="78" y="-60" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="-140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pEdADiUN0RTrBGETc-ND-135" value="GO to Device Details" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="78" y="60" width="120" height="60" as="geometry" />
@@ -251,8 +251,8 @@
         <mxCell id="3hNNNC0sCadGTLv19EZq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3hNNNC0sCadGTLv19EZq-0" target="3hNNNC0sCadGTLv19EZq-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3hNNNC0sCadGTLv19EZq-0" value="Plan first Flow" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="-50" width="120" height="60" as="geometry" />
+        <mxCell id="3hNNNC0sCadGTLv19EZq-0" value="Plan first&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3hNNNC0sCadGTLv19EZq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3hNNNC0sCadGTLv19EZq-2" target="3hNNNC0sCadGTLv19EZq-3">
           <mxGeometry relative="1" as="geometry" />
@@ -274,6 +274,9 @@
         </mxCell>
         <mxCell id="3hNNNC0sCadGTLv19EZq-16" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3hNNNC0sCadGTLv19EZq-18" value="Device first" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
