@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T10:25:21.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vgfRBbsHBGgUO2MP9EyH" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T10:28:39.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sNXWlfpdjYHByY16G70l" version="20.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -97,13 +97,8 @@
         <mxCell id="z_6pDSbNV-KYUhVB-wk2-27" value="&lt;span style=&quot;color: rgb(23, 43, 77); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;promo will be added to each applicable line&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z_6pDSbNV-KYUhVB-wk2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z_6pDSbNV-KYUhVB-wk2-29" target="z_6pDSbNV-KYUhVB-wk2-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="70" y="950" />
-              <mxPoint x="70" y="300" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="z_6pDSbNV-KYUhVB-wk2-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z_6pDSbNV-KYUhVB-wk2-29" target="z_6pDSbNV-KYUhVB-wk2-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z_6pDSbNV-KYUhVB-wk2-29" value="Close modal" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="920" width="120" height="60" as="geometry" />
@@ -158,6 +153,9 @@
         </mxCell>
         <mxCell id="z_6pDSbNV-KYUhVB-wk2-49" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="669" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z_6pDSbNV-KYUhVB-wk2-54" value="?&lt;br&gt;after close modal will it continue or stay on current page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="1030" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
