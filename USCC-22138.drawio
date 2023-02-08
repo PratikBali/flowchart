@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T11:14:56.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="g0GjzMTqs9Zbs2GfCm0H" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T11:20:43.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="g9ZNkUBXnk4CbY4n9qpj" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="70" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-11" value="/digitalexp-autopay-make-module-l9.min.js" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="165" width="250" height="30" as="geometry" />
+          <mxGeometry x="140" y="220" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-12" value="AutopayMake.LayoutView.js" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="320" width="180" height="30" as="geometry" />
@@ -94,6 +94,12 @@
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-38" value="&lt;span style=&quot;font-size: 13px; font-family: -apple-system;&quot;&gt;&lt;a href=&quot;https://deljira/browse/USCC-22136&quot;&gt;&lt;span style=&quot;color:black&quot;&gt;USCC-22136&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;/span&gt;Deepak&lt;br&gt;Make a Payment&lt;br&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: -apple-system;&quot;&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j67WnfkW41FYY-DcMpxh-39" value="digitalexp-payment-wallet-module-l9.min.js" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="220" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j67WnfkW41FYY-DcMpxh-40" value="Reach &lt;br&gt;make a payment screen&lt;br&gt;(module)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="445" y="150" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
