@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T11:37:05.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oBy-KtkMQXRu_7ez8edI" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T13:03:11.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="soIc5ca2rh0B1cMLLYa_" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,9 +96,6 @@
         <mxCell id="j67WnfkW41FYY-DcMpxh-38" value="&lt;span style=&quot;font-size: 13px; font-family: -apple-system;&quot;&gt;&lt;a href=&quot;https://deljira/browse/USCC-22136&quot;&gt;&lt;span style=&quot;color:black&quot;&gt;USCC-22136&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;/span&gt;Deepak&lt;br&gt;Make a Payment&lt;br&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: -apple-system;&quot;&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j67WnfkW41FYY-DcMpxh-39" value="digitalexp-payment-wallet-module-l9.min.js" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="220" width="250" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-43" value="/editautopay" style="text;whiteSpace=wrap;html=1;fontSize=13;fontColor=#005C0F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="245" width="100" height="40" as="geometry" />
         </mxCell>
@@ -108,20 +105,11 @@
         <mxCell id="j67WnfkW41FYY-DcMpxh-47" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;/autopaymake&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=23;fontColor=#005C0F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="240" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j67WnfkW41FYY-DcMpxh-48" value="/paymentwallet" style="text;whiteSpace=wrap;html=1;fontSize=13;fontColor=#005C0F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="965" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-50" value="Edit Auto Pay" style="text;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j67WnfkW41FYY-DcMpxh-51" value="Payment Methods" style="text;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="190" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-53" value="Make a Payment" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;fontSize=13;fontColor=#005C0F;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j67WnfkW41FYY-DcMpxh-54" value="?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="295" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
