@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T11:06:13.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1XKwR8T5dJnJxnO-74_D" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T11:14:56.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="g0GjzMTqs9Zbs2GfCm0H" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,34 +16,34 @@
         <mxCell id="j67WnfkW41FYY-DcMpxh-1" value="Reach &lt;br&gt;make a payment screen&lt;br&gt;(module)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="150" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j67WnfkW41FYY-DcMpxh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j67WnfkW41FYY-DcMpxh-3" target="j67WnfkW41FYY-DcMpxh-5">
+        <mxCell id="j67WnfkW41FYY-DcMpxh-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#005C0F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j67WnfkW41FYY-DcMpxh-3" target="j67WnfkW41FYY-DcMpxh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-3" value="edit payment sources&lt;br&gt;(page)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-5" value="Edit Payment Sources&lt;br&gt;(link)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-11" value="/digitalexp-autopay-make-module-l9.min.js" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="165" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-12" value="AutopayMake.LayoutView.js" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="260" width="180" height="30" as="geometry" />
+          <mxGeometry x="250" y="320" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-16" value="rp-server/commerce/v1/customer/847188474/paymeans?salesChannel=WR&amp;amp;filterExpierd=false" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="365" width="380" height="30" as="geometry" />
+          <mxGeometry x="210" y="495" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-17" value="Api call for data" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="445" y="450" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-18" value="on click of this link open new view" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#050000;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j67WnfkW41FYY-DcMpxh-19" target="j67WnfkW41FYY-DcMpxh-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="860" />
+              <mxPoint x="130" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -54,40 +54,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-19" value="Edit Payment Sources&lt;br&gt;(page)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-20" value="[&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;paymeansId&quot;: &quot;16204569&quot;,&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#005c0f&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;favoriteIndicator&quot;: false,&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;cardInfo&quot;: {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;expiryMonth&quot;: 2,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;expiryYear&quot;: 26,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;cardHolderName&quot;: &quot;Test&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;cardType&quot;: &quot;VS&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;lastFourDigits&quot;: &quot;1111&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;cyberSourceId&quot;: &quot;9504969000007151&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; },&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;paymeansId&quot;: &quot;15756887&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;favoriteIndicator&quot;: false,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;bankAccountInfo&quot;: {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;bankAccountNumber&quot;: &quot;****1081&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;bankAccountName&quot;: &quot;UMB Bank National Association&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;accountOwnerName&quot;: &quot;Donnell J Scott &quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;routingNumber&quot;: &quot;101100634&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;bankAccountType&quot;: &quot;Checking&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;]" style="text;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="260" width="370" height="380" as="geometry" />
+          <mxGeometry x="500" y="650" width="370" height="380" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-22" value="digitalexp-common-components-l9\src\ui-components\AutopayList\AutopayList.js" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="224" y="445" width="326" height="30" as="geometry" />
+          <mxGeometry x="224" y="575" width="536" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#050000;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j67WnfkW41FYY-DcMpxh-23" target="j67WnfkW41FYY-DcMpxh-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-23" value="Back Link" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#050000;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j67WnfkW41FYY-DcMpxh-25" target="j67WnfkW41FYY-DcMpxh-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-25" value="Caret icon" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#050000;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j67WnfkW41FYY-DcMpxh-26" target="j67WnfkW41FYY-DcMpxh-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-26" value="Done Button" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-30" value="navigate back to Make Payment screen" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-32" value="navigate to Payment Source" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j67WnfkW41FYY-DcMpxh-34" value="navigate back to Make Payment screen" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j67WnfkW41FYY-DcMpxh-36" value="USCC-22153&lt;br&gt;Sagar&lt;br&gt;Set Up Auto Pay&lt;br&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: -apple-system;&quot;&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j67WnfkW41FYY-DcMpxh-38" value="&lt;span style=&quot;font-size: 13px; font-family: -apple-system;&quot;&gt;&lt;a href=&quot;https://deljira/browse/USCC-22136&quot;&gt;&lt;span style=&quot;color:black&quot;&gt;USCC-22136&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;/span&gt;Deepak&lt;br&gt;Make a Payment&lt;br&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: -apple-system;&quot;&gt;&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="380" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
