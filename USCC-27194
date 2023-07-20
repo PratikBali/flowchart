@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T09:43:25.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SpjD_qeM2iFqZnhyXRZW" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T10:39:32.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="r6L0exc95n3ixsvoQv-E" version="21.6.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dlh164gQk5p_9yY04pU--51" value="Navigate to &lt;br&gt;Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Dlh164gQk5p_9yY04pU--51" value="Navigate to &lt;br&gt;Previous screen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-75" y="1279" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
