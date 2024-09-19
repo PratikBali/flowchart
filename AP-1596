@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2026" dy="656" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2279" dy="794" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -266,6 +266,15 @@
         </mxCell>
         <mxCell id="yk9QRoUQ8wN0M49CdTZv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yk9QRoUQ8wN0M49CdTZv-3" target="0wQ5qDk0dDQ1pe10yYf--52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yk9QRoUQ8wN0M49CdTZv-26" value="Count type: Serialized, Non-Serialized, Both, SKU&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Quantity Type: Set Quantity, ALL&lt;br&gt;&lt;br&gt;Quantity: visible only when quantity type is selected as &quot;Set Quantity&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Price Range: Min and Max input fields and not drop-down.&amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-294" y="439" width="197" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="yk9QRoUQ8wN0M49CdTZv-27" value="Store in Redux" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=15;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-93" y="504" width="138" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="yk9QRoUQ8wN0M49CdTZv-28" value="on SUCCESS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="448" y="747" width="94" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
