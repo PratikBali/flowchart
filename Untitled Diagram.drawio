@@ -4,31 +4,31 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="8hpeHpfutsAINzLJnfh8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_uD3GPjab3g0QYxEsbRK-0" target="8hpeHpfutsAINzLJnfh8-2">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_uD3GPjab3g0QYxEsbRK-0" target="8hpeHpfutsAINzLJnfh8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_uD3GPjab3g0QYxEsbRK-0" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8hpeHpfutsAINzLJnfh8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8hpeHpfutsAINzLJnfh8-2" target="8hpeHpfutsAINzLJnfh8-4">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8hpeHpfutsAINzLJnfh8-2" target="8hpeHpfutsAINzLJnfh8-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hpeHpfutsAINzLJnfh8-2" value="Inventory Landing page&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-2" value="Inventory Landing page&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8hpeHpfutsAINzLJnfh8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8hpeHpfutsAINzLJnfh8-4" target="8hpeHpfutsAINzLJnfh8-6">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8hpeHpfutsAINzLJnfh8-4" target="8hpeHpfutsAINzLJnfh8-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hpeHpfutsAINzLJnfh8-4" value="Inventory Overview" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-4" value="Inventory Overview" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8hpeHpfutsAINzLJnfh8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8hpeHpfutsAINzLJnfh8-6" target="8hpeHpfutsAINzLJnfh8-8">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8hpeHpfutsAINzLJnfh8-6" target="8hpeHpfutsAINzLJnfh8-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hpeHpfutsAINzLJnfh8-6" value="Count" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-6" value="Count" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8hpeHpfutsAINzLJnfh8-8" value="Select Blind count from split button dropdown" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8hpeHpfutsAINzLJnfh8-8" value="Select Blind count from split button dropdown" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
