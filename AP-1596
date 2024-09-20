@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1468" dy="1520" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="1749" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,9 +29,6 @@
         </mxCell>
         <mxCell id="0wQ5qDk0dDQ1pe10yYf--3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Inventory count landing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=13;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="66" y="33" width="152" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="0wQ5qDk0dDQ1pe10yYf--4" value="&lt;a style=&quot;box-sizing: border-box; background-color: rgba(97, 175, 254, 0.1); display: inline; color: rgb(59, 65, 81); cursor: pointer; text-decoration-line: inherit; font-family: monospace; font-weight: 600; text-align: start;&quot; class=&quot;nostyle&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;GET -/v1&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/retail&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{authorizedRetailerId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/locations&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{locationId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/products&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/stocks&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/count&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/requests&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{requestNumber}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/details&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-165" y="21" width="149" height="43" as="geometry" />
         </mxCell>
         <mxCell id="0wQ5qDk0dDQ1pe10yYf--6" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Open count&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="93" width="56" height="20" as="geometry" />
@@ -503,6 +500,12 @@
               <mxPoint x="29" y="101" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6SOxBfxYKFf1r6YClctK-10" value="&lt;a href=&quot;onenote:https://amdocs.sharepoint.com/sites/Cricket-Digital/SiteAssets/Cricket%20-%20Digital%20Notebook/Digital%20UI/Inventory%20Count.one#LOGIC&amp;amp;section-id={55E2A401-DDA4-4C49-80D7-4C02E826ADC4}&amp;amp;page-id={1225AB6D-4438-4A8D-89F5-04F0A4438838}&amp;amp;end&quot;&gt;LOGIC &lt;/a&gt;&amp;nbsp; (&lt;a href=&quot;https://amdocs.sharepoint.com/sites/Cricket-Digital/_layouts/OneNote.aspx?id=%2Fsites%2FCricket-Digital%2FSiteAssets%2FCricket%20-%20Digital%20Notebook&amp;amp;wd=target%28Digital%20UI%2FInventory%20Count.one%7C55E2A401-DDA4-4C49-80D7-4C02E826ADC4%2FLOGIC%7C1225AB6D-4438-4A8D-89F5-04F0A4438838%2F%29&quot;&gt;Web view&lt;/a&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-408" y="1542" width="126" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="6SOxBfxYKFf1r6YClctK-12" value="&lt;a style=&quot;box-sizing: border-box; background-color: rgba(97, 175, 254, 0.1); display: inline; color: rgb(59, 65, 81); cursor: pointer; text-decoration-line: inherit; font-family: monospace; font-weight: 600; text-align: start;&quot; class=&quot;nostyle&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;GET -/v1&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/retail&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{authorizedRetailerId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/locations&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{locationId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/products&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/stocks&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/count&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/requests&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{requestNumber}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/details&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-175" y="3" width="168" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
