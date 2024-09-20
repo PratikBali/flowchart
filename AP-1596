@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2081" dy="1854" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3891" dy="2845" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -507,10 +507,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SOxBfxYKFf1r6YClctK-12" value="&lt;a style=&quot;box-sizing: border-box; background-color: rgba(97, 175, 254, 0.1); display: inline; color: rgb(59, 65, 81); cursor: pointer; text-decoration-line: inherit; font-family: monospace; font-weight: 600; text-align: start;&quot; class=&quot;nostyle&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;GET -/v1&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/retail&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{authorizedRetailerId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/locations&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{locationId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/products&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/stocks&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/count&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/requests&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{requestNumber}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/details&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6SOxBfxYKFf1r6YClctK-12" value="&lt;a style=&quot;box-sizing: border-box; background-color: rgba(97, 175, 254, 0.1); display: inline; color: rgb(59, 65, 81); cursor: pointer; text-decoration-line: inherit; font-family: monospace; font-weight: 600; text-align: start;&quot; class=&quot;nostyle&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;GET -/v1&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/retail&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{authorizedRetailerId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/locations&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{locationId}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/products&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/stocks&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/count&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/requests&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/{requestNumber}&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/details&lt;/font&gt;&lt;/span&gt;&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-175" y="3" width="168" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6SOxBfxYKFf1r6YClctK-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;/v1/retail/{authorizedRetailerId}/locations/{locationId}/products/stocks/count&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6SOxBfxYKFf1r6YClctK-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;/v1/retail/{authorizedRetailerId}/locations/{locationId}/products/stocks/count&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="309" y="679" width="318" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6SOxBfxYKFf1r6YClctK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6SOxBfxYKFf1r6YClctK-10">
@@ -540,7 +540,7 @@
         <mxCell id="6SOxBfxYKFf1r6YClctK-18" value="If Not found then call lookup API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-710" y="1425" width="189" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="6SOxBfxYKFf1r6YClctK-19" value="/v1/retail/{authorizedRetailerId}/locations/{locationId}/products/serial-numbers/{serialNumber}/lookup" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6SOxBfxYKFf1r6YClctK-19" value="/v1/retail/{authorizedRetailerId}/locations/{locationId}/products/serial-numbers/{serialNumber}/lookup" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-675" y="1659" width="465" height="60" as="geometry" />
         </mxCell>
       </root>
