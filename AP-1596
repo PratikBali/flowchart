@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1379" dy="1471" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1976" dy="1797" grid="1" gridSize="3" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -543,10 +543,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6SOxBfxYKFf1r6YClctK-17" value="If found increase count of SKU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-672" y="1350" width="183" height="27" as="geometry" />
+          <mxGeometry x="-678" y="1488" width="183" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6SOxBfxYKFf1r6YClctK-18" value="If Not found then call lookup API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-710" y="1425" width="189" height="27" as="geometry" />
+          <mxGeometry x="-441" y="1530" width="189" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6SOxBfxYKFf1r6YClctK-19" value="/v1/retail/{authorizedRetailerId}/locations/{locationId}/products/serial-numbers/{serialNumber}/lookup" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-675" y="1659" width="465" height="60" as="geometry" />
