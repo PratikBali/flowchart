@@ -775,11 +775,12 @@
         <mxCell id="6SOxBfxYKFf1r6YClctK-109" value="Continue to Mark as Missing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1281" y="2643" width="171" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="6SOxBfxYKFf1r6YClctK-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6SOxBfxYKFf1r6YClctK-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;exitX=0.202;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6SOxBfxYKFf1r6YClctK-100">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1224" y="2649" as="sourcePoint" />
             <mxPoint x="581.5510500000001" y="2388.08664" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1224" y="2638" />
               <mxPoint x="1224" y="2649" />
               <mxPoint x="657" y="2649" />
               <mxPoint x="657" y="2388" />
