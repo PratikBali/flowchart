@@ -748,6 +748,21 @@
         <mxCell id="6SOxBfxYKFf1r6YClctK-101" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Click on Review Pending Item&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="622" y="2340" width="168" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6SOxBfxYKFf1r6YClctK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.978;entryY=0.704;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6SOxBfxYKFf1r6YClctK-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1299" y="2169" as="sourcePoint" />
+            <mxPoint x="-369.00199999999995" y="1510.7880000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1266" y="2328" />
+              <mxPoint x="1266" y="2244" />
+              <mxPoint x="1254" y="2244" />
+              <mxPoint x="1254" y="1511" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6SOxBfxYKFf1r6YClctK-103" value="Scanned IMEI/SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1142" y="2292" width="120" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
