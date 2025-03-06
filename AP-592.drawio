@@ -129,8 +129,8 @@
         <mxCell id="PExKw9lyQx4Q-NcElafL-53" value="&lt;a style=&quot;box-sizing: border-box; background-color: rgba(73, 204, 144, 0.1); display: inline; color: rgb(59, 65, 81); cursor: pointer; text-decoration-line: inherit; font-family: monospace; font-size: 16px; text-align: start;&quot; class=&quot;nostyle&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;/v1&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/custom-report&lt;wbr style=&quot;box-sizing: border-box;&quot;&gt;/status&lt;/span&gt;&lt;/a&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="1373" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PExKw9lyQx4Q-NcElafL-54" value="pass report name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PExKw9lyQx4Q-NcElafL-53">
-          <mxGeometry x="40" y="37" width="120" height="30" as="geometry" />
+        <mxCell id="PExKw9lyQx4Q-NcElafL-54" value="pass report name in&amp;nbsp;&lt;div&gt;reportNameList array&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PExKw9lyQx4Q-NcElafL-53">
+          <mxGeometry x="40" y="32" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PExKw9lyQx4Q-NcElafL-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PExKw9lyQx4Q-NcElafL-55" target="PExKw9lyQx4Q-NcElafL-57">
           <mxGeometry relative="1" as="geometry" />
