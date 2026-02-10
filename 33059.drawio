@@ -1,0 +1,196 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8" pages="4">
+  <diagram name="Page-1" id="DP0Wd72QGMgJpiAsV5wf">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LXi5jzwSDwjaXO0xOHH_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="180" x="310" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LXi5jzwSDwjaXO0xOHH_-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="420" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Behavior A - Plan Details One Number" id="_Wvrj21QahkL-UJ-t4EH">
+    <mxGraphModel dx="1358" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p1_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" value="Behavior A: Plan Details &gt; More Details &gt; One Number" vertex="1">
+          <mxGeometry height="40" width="900" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="User opens Plan Details &gt; More Details" vertex="1">
+          <mxGeometry height="60" width="340" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="API EXISTING:&#xa;CustomerApi.retrieveOrderAndProductDetails" vertex="1">
+          <mxGeometry height="70" width="380" x="40" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Service and endpoint&#xa;BillingCareService.getOrderAndProductDetails&#xa;NEW: add ServiceType=SECN" vertex="1">
+          <mxGeometry height="90" width="460" x="40" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="NEW SECN fields&#xa;DeviceAlias, adMSISDN, adSIM, DisplayedSIMType" vertex="1">
+          <mxGeometry height="80" width="460" x="40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a5" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Condition:&#xa;SECN component present?" vertex="1">
+          <mxGeometry height="90" width="220" x="560" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="No -&gt; Do not render One Number section" vertex="1">
+          <mxGeometry height="70" width="310" x="860" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Yes -&gt; Render One Number section" vertex="1">
+          <mxGeometry height="70" width="310" x="860" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffffff;strokeColor=#999999;" value="EXISTING behavior retained:&#xa;Additional Services still renders OneNumber as BAU" vertex="1">
+          <mxGeometry height="80" width="420" x="1230" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a8" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Condition:&#xa;DisplayedSIMType == SXRESIMGEN?" vertex="1">
+          <mxGeometry height="90" width="240" x="1230" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="API NEW: getUnifiedResourceDetails&#xa;type=SIM&#xa;value=adSIM" vertex="1">
+          <mxGeometry height="90" width="420" x="1540" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="NEW status mapping: PROFILE_STATUS&#xa;4-&gt;INSTALLED, 101-&gt;ENABLED, 102-&gt;DISABLED, 103-&gt;DELETED" vertex="1">
+          <mxGeometry height="90" width="420" x="1540" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Render eSIM status row and badge" vertex="1">
+          <mxGeometry height="70" width="420" x="1540" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_a12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="No -&gt; SIM Type = Physical SIM&#xa;Do not call SRM; hide eSIM status row" vertex="1">
+          <mxGeometry height="80" width="420" x="1540" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_mapbox" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="Map existing/new&#xa;EXISTING: Additional Services kept&#xa;NEW: see SECN map + SIM rule" vertex="1">
+          <mxGeometry height="360" width="730" x="1230" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e1" edge="1" parent="1" source="p1_a1" style="endArrow=block;html=1;" target="p1_a2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e2" edge="1" parent="1" source="p1_a2" style="endArrow=block;html=1;" target="p1_a3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e3" edge="1" parent="1" source="p1_a3" style="endArrow=block;html=1;" target="p1_a4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e4" edge="1" parent="1" source="p1_a4" style="endArrow=block;html=1;" target="p1_a5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e5" edge="1" parent="1" source="p1_a5" style="endArrow=block;html=1;" target="p1_a6" value="NO">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e6" edge="1" parent="1" source="p1_a5" style="endArrow=block;html=1;" target="p1_a7" value="YES">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e7" edge="1" parent="1" source="p1_a7" style="endArrow=block;html=1;" target="p1_a8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e8" edge="1" parent="1" source="p1_a7" style="endArrow=block;html=1;dashed=1;" target="p1_a13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e9" edge="1" parent="1" source="p1_a8" style="endArrow=block;html=1;" target="p1_a9" value="YES">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e10" edge="1" parent="1" source="p1_a9" style="endArrow=block;html=1;" target="p1_a10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e11" edge="1" parent="1" source="p1_a10" style="endArrow=block;html=1;" target="p1_a11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p1_e12" edge="1" parent="1" source="p1_a8" style="endArrow=block;html=1;" target="p1_a12" value="NO">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Behavior B - Settings Call Details Lock" id="j0J2q34SW8OXcz5nRx6t">
+    <mxGraphModel dx="1800" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p2_title" value="Behavior B: Settings (SUBSCRIBER_CONF) &gt; Call Details Lock" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="950" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b1" value="User opens Settings from Plan Details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b2" value="API EXISTING path:&#xa;OrderApi.retrieveProductAction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b3" value="Endpoint EXISTING + NEW request filter:&#xa;RetrieveProductAndValidateActions + ServiceType=SECN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b4" value="Map existing/new&#xa;Reuse apRelatedUserAction&#xa;NEW: hasSecondaryNumberComponent flag" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b5" value="Condition:&#xa;hasSecondaryNumberComponent?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="400" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b6" value="YES -&gt; NEW behavior:&#xa;Disable only Call Details toggle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="330" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b7" value="NO -&gt; Keep BAU Call Details toggle behavior" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="930" y="470" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b8" value="EXISTING behavior retained:&#xa;Other toggles and submit payload remain unchanged" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffffff;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="390" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_b9" value="Map existing/new&#xa;EXISTING: settings lanes and submit&#xa;NEW: SECN filter + secondary flag" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="110" width="420" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e1" style="endArrow=block;html=1;" edge="1" parent="1" source="p2_b1" target="p2_b2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e2" style="endArrow=block;html=1;" edge="1" parent="1" source="p2_b2" target="p2_b3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e3" style="endArrow=block;html=1;" edge="1" parent="1" source="p2_b3" target="p2_b4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e4" style="endArrow=block;html=1;" edge="1" parent="1" source="p2_b4" target="p2_b5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e5" value="YES" style="endArrow=block;html=1;" edge="1" parent="1" source="p2_b5" target="p2_b6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e6" value="NO" style="endArrow=block;html=1;" edge="1" parent="1" source="p2_b5" target="p2_b7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e7" style="endArrow=block;html=1;dashed=1;" edge="1" parent="1" source="p2_b6" target="p2_b8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_e8" style="endArrow=block;html=1;dashed=1;" edge="1" parent="1" source="p2_b7" target="p2_b8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Matrix - APIs, Mapping, Conditions, Flows" id="7C7ry8rMMUPlhOJ4QPSK">
+    <mxGraphModel dx="1800" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p3_title" value="Cross-Behavior Matrix: API names, existing/new field mapping, conditions, flows" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="1300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_sec1" value="Behavior A APIs&#xa;EXISTING: retrieveOrderAndProductDetails&#xa;NEW: SECN filter + getUnifiedRes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="680" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_sec2" value="Behavior A fields&#xa;EXISTING: promotions shown&#xa;NEW: DeviceAlias/adMSISDN/adSIM/DisplayedSIMType" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="760" y="100" width="680" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_sec3" value="Behavior B APIs&#xa;EXISTING: retrieveProductAction&#xa;NEW: SECN filter + secondary flag" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="680" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_sec4" value="Behavior B rules&#xa;EXISTING: settings submit BAU&#xa;NEW: disable only Call Details when flag=true" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="680" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_sec5" value="Conditions&#xa;SECN-&gt;show One Number&#xa;SXRESIMGEN-&gt;eSIM+SRM&#xa;SECN flag-&gt;lock Call Details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="680" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_sec6" value="Flows&#xa;A: MoreDetails-&gt;GetOrderAndProductDetails&#xa;B: Settings-&gt;ValidateActions-&gt;lock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="680" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
