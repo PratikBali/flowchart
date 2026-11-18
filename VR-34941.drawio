@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="AKEyj6kHTEbuHjl1WaKN-14" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="BAU of Order Summary" vertex="1">
-          <mxGeometry height="530" width="620" x="30" y="40" as="geometry" />
+          <mxGeometry height="530" width="490" x="30" y="40" as="geometry" />
         </mxCell>
         <mxCell id="AKEyj6kHTEbuHjl1WaKN-11" parent="AKEyj6kHTEbuHjl1WaKN-14" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;perimeter=cloudPerimeter;rounded=1;roundedPerimeter=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="&lt;h2&gt;&lt;b&gt;BAU&lt;/b&gt;&lt;/h2&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="340" y="20" as="geometry" />
+          <mxGeometry height="80" width="120" x="330" y="30" as="geometry" />
         </mxCell>
         <mxCell id="AKEyj6kHTEbuHjl1WaKN-38" edge="1" parent="AKEyj6kHTEbuHjl1WaKN-14" source="AKEyj6kHTEbuHjl1WaKN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" target="AKEyj6kHTEbuHjl1WaKN-45">
           <mxGeometry relative="1" as="geometry" />
