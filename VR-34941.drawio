@@ -149,7 +149,7 @@
         <mxCell id="AKEyj6kHTEbuHjl1WaKN-89" parent="AKEyj6kHTEbuHjl1WaKN-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;roundedPerimeter=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div&gt;all remaining items are shown&amp;nbsp;&lt;/div&gt;&lt;div&gt;as collapsed&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="425" as="geometry" />
         </mxCell>
-        <mxCell id="AKEyj6kHTEbuHjl1WaKN-92" parent="AKEyj6kHTEbuHjl1WaKN-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;roundedPerimeter=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="Display shipping fee" vertex="1">
+        <mxCell id="AKEyj6kHTEbuHjl1WaKN-92" parent="AKEyj6kHTEbuHjl1WaKN-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;roundedPerimeter=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="Display shipping fee message" vertex="1">
           <mxGeometry height="50" width="120" x="590" y="184" as="geometry" />
         </mxCell>
         <mxCell id="AKEyj6kHTEbuHjl1WaKN-96" parent="AKEyj6kHTEbuHjl1WaKN-74" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;roundedPerimeter=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div&gt;Display&amp;nbsp;&lt;/div&gt;&lt;div&gt;Buyback voucher information&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;if returned&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;at Product level&lt;br&gt;TURBO314&lt;br&gt;&lt;/div&gt;" vertex="1">
