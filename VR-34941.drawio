@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2531" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -252,13 +252,13 @@
         <mxCell id="AKEyj6kHTEbuHjl1WaKN-146" parent="AKEyj6kHTEbuHjl1WaKN-145" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;span class=&quot;line old&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 14px; text-indent: -14px; color: rgb(17, 17, 17); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.2px; text-align: start;&quot;&gt;&lt;span class=&quot;line old&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 14px; color: rgb(17, 17, 17); font-size: 15.2px;&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;line i1 old&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 28px; color: rgb(17, 17, 17); font-size: 15.2px;&quot;&gt;templateId: string&lt;/span&gt;&lt;span class=&quot;line i1 old&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 28px; color: rgb(17, 17, 17); font-size: 15.2px;&quot;&gt;status: string&lt;/span&gt;&lt;span class=&quot;line i1 new&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 28px; font-weight: 800; color: rgb(17, 17, 17); background: rgb(200, 230, 201); border-radius: 2px; font-size: 15.2px;&quot;&gt;isOrderLevelTemplate: string&lt;/span&gt;&lt;span class=&quot;line i1 new&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 28px; font-weight: 800; color: rgb(17, 17, 17); background: rgb(200, 230, 201); border-radius: 2px; font-size: 15.2px;&quot;&gt;orderActionId: string&lt;/span&gt;&lt;span class=&quot;line i1 new&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 28px; font-weight: 800; color: rgb(17, 17, 17); background: rgb(200, 230, 201); border-radius: 2px; font-size: 15.2px;&quot;&gt;apId: string&lt;/span&gt;&lt;span class=&quot;line i1 new&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 28px; font-weight: 800; color: rgb(17, 17, 17); background: rgb(200, 230, 201); border-radius: 2px; font-size: 15.2px;&quot;&gt;flowType: string&lt;/span&gt;&lt;span class=&quot;line i1 new&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 28px; font-weight: 800; color: rgb(17, 17, 17); background: rgb(200, 230, 201); border-radius: 2px; font-size: 15.2px;&quot;&gt;serviceId: string&lt;/span&gt;&lt;span class=&quot;line old&quot; style=&quot;box-sizing: border-box; display: block; padding-left: 14px; color: rgb(17, 17, 17); font-size: 15.2px;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="150" width="400" x="-47" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="AKEyj6kHTEbuHjl1WaKN-147" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AKEyj6kHTEbuHjl1WaKN-142" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.006;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.992;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;" target="AKEyj6kHTEbuHjl1WaKN-145" value="">
+        <mxCell id="AKEyj6kHTEbuHjl1WaKN-147" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AKEyj6kHTEbuHjl1WaKN-142" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.006;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.992;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" target="AKEyj6kHTEbuHjl1WaKN-145" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="1050" y="910" as="sourcePoint" />
             <mxPoint x="1150" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AKEyj6kHTEbuHjl1WaKN-148" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AKEyj6kHTEbuHjl1WaKN-121" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.005;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="AKEyj6kHTEbuHjl1WaKN-142" value="">
+        <mxCell id="AKEyj6kHTEbuHjl1WaKN-148" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AKEyj6kHTEbuHjl1WaKN-121" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.005;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" target="AKEyj6kHTEbuHjl1WaKN-142" value="">
           <mxGeometry height="100" relative="1" width="100" x="-0.1921" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="940" />
@@ -266,6 +266,18 @@
             </Array>
             <mxPoint x="470" y="820" as="sourcePoint" />
             <mxPoint x="610" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKEyj6kHTEbuHjl1WaKN-150" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;span style=&quot;font-family: Helvetica; font-weight: 400;&quot;&gt;RetrieveDigitalSummary&lt;/span&gt;" vertex="1">
+          <mxGeometry height="122" width="510" x="690" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="AKEyj6kHTEbuHjl1WaKN-151" parent="AKEyj6kHTEbuHjl1WaKN-150" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 102));&quot;&gt;orderSummary{}.orderOfferData[].orderActionsSummary[]&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 102));&quot;&gt;orderSummary{}.orderOfferData[].removedItems[]&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="20" y="42" as="geometry" />
+        </mxCell>
+        <mxCell id="AKEyj6kHTEbuHjl1WaKN-152" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AKEyj6kHTEbuHjl1WaKN-54" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="920" y="270" as="sourcePoint" />
+            <mxPoint x="750" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
